@@ -8,6 +8,10 @@ Angela by Elliot is a simple chatbot application built using GTK for the user in
 
  - User Interface: Provides a simple and intuitive user interface using GTK.
  - No API-Key is required.
+
+### Screenshots
+
+![screenshot](https://i.ibb.co/0fjjcwt/demo.png) ![screenshot_empty](https://i.ibb.co/GC6trhf/demo2.png)
  
 ## Running the Program
 
